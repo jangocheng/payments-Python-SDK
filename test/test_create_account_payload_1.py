@@ -19,11 +19,11 @@ import unittest
 
 import swagger_client
 from swagger_client.rest import ApiException
-from swagger_client.models.b2_c_payload_1 import B2CPayload1
+from swagger_client.models.create_account_payload_1 import CreateAccountPayload1
 
 
-class TestB2CPayload1(unittest.TestCase):
-    """ B2CPayload1 unit test stubs """
+class TestCreateAccountPayload1(unittest.TestCase):
+    """ CreateAccountPayload1 unit test stubs """
 
     def setUp(self):
         pass
@@ -31,12 +31,12 @@ class TestB2CPayload1(unittest.TestCase):
     def tearDown(self):
         pass
 
-    def testB2CPayload1(self):
+    def testCreateAccountPayload1(self):
         """
-        Test B2CPayload1
+        Test CreateAccountPayload1
         """
         # FIXME: construct object with mandatory attributes with example values
-        #model = swagger_client.models.b2_c_payload_1.B2CPayload1()
+        #model = swagger_client.models.create_account_payload_1.CreateAccountPayload1()
         pass
 
 
